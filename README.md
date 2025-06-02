@@ -1,3 +1,5 @@
+App Tour Video: https://www.loom.com/share/f8becdf3ea174369baef49a481f7339d?sid=0e5aa3f5-da7b-4a0b-b200-ba3a9d849765
+
 # 📚 Trivia App
 
 A fullstack trivia quiz application with category selection, randomized questions, answer validation, scoring, and results — built for code quality, testability, and containerized environments.
@@ -243,3 +245,20 @@ npm run test
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## Result Output
+1. Docker Running
+<img width="1381" alt="Screenshot 2025-06-01 at 5 58 23 PM" src="https://github.com/user-attachments/assets/a2093b98-df07-4cdd-8a31-aa92dc2023b9" />
+<img width="1563" alt="Screenshot 2025-06-01 at 5 58 53 PM" src="https://github.com/user-attachments/assets/23e38762-8643-4702-b958-cc4fa498b566" />
+
+2. MongoDb Compass
+<img width="1421" alt="Screenshot 2025-06-01 at 5 59 30 PM" src="https://github.com/user-attachments/assets/c37d8a1e-3eb4-438b-a4f4-0f9fbf8e81de" />
+<img width="1423" alt="Screenshot 2025-06-01 at 6 00 02 PM" src="https://github.com/user-attachments/assets/1bb64c9e-8619-4e12-8ff2-af24055e77bc" />
+
+3. Test Results (Backend and Frontend)
+<img width="1237" alt="Screenshot 2025-06-01 at 6 01 07 PM" src="https://github.com/user-attachments/assets/1cb673a2-6b66-448c-9af6-e05a852659ea" />
+<img width="1235" alt="Screenshot 2025-06-01 at 6 01 38 PM" src="https://github.com/user-attachments/assets/ee87b165-27b8-4360-a275-683e39d3fcf4" />
+
+
+
+
